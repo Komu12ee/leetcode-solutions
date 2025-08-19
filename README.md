@@ -1,3 +1,8 @@
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-120%2B-brightgreen)
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202025-orange)
+
+
 This repository contains my solutions to various LeetCode problems, solved in Python. The goal is to build strong problem-solving skills and deepen understanding of Data Structures and Algorithms (DSA).
 
 ✅ Covers Easy, Medium, and Hard problems
