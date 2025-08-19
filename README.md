@@ -48,7 +48,7 @@ However, if you find better solutions or optimizations, feel free to suggest imp
 ---
 
 ## 📌 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/komendra/)  
+- [LinkedIn](https://www.linkedin.com/in/komendrasahu/)  
 - [GitHub](https://github.com/Komu12ee)  
 
 ---
